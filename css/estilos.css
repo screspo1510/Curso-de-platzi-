@@ -3,3 +3,19 @@ body {
     text-align: center;
     font-family: "Arial";
 }
+
+h1 {
+    font-size: 24px;
+    /* Tamaño reducido del título */
+}
+
+p {
+    border: 1px solid black;
+    /* Recuadro alrededor del párrafo */
+    display: inline-block;
+    padding: 10px;
+    color: gray;
+    /* Color del texto a gris */
+    font-size: 16px;
+    /* Tamaño de la letra */
+}
